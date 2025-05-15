@@ -10,4 +10,5 @@ A simple Streamlit app that uses OpenAI Whisper to generate subtitles from video
 - Open the srt files under Subtitles while running your video, for example in VLC
 
 Run the app here! 
+https://whisper-subtitle-gui-5fwl5st9grvpyv7kwmvc33.streamlit.app/
 
