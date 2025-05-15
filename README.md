@@ -1,1 +1,1 @@
-# whisper-subtitle-gui
+
